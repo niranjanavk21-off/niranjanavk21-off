@@ -1,10 +1,12 @@
 # 💫 About Me
-- 🔭 I’m currently studying at **Christ University**  
-- 👯 I’m looking to collaborate on **web development and creative frontend projects**  
+- 🔭 I’m currently studying at **Christ college Irinjalakuda**  
+- 👯 I’m looking to collaborate on **Data science**  
 - 🤝 I’m looking for help with **improving my JavaScript skills and learning frameworks like React**  
-- 🌱 I’m currently learning **JavaScript, React, and backend basics**  
-- 💬 Ask me about **HTML, CSS, JavaScript, and frontend deployment**  
-- ⚡ Fun fact: I love exploring new tech tools and building clean UIs!
+- 🌱 I’m currently learning btech in computer science engineering(Datascience)**  
+- 💬 Ask me about tech life,project experience 
+- ⚡ Fun fact:Every semister is a new subject to me
+- 
+- 
 
 ---
 
